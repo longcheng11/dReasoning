@@ -5,7 +5,7 @@ The test code used in Rethinking Defeasible Reasoning: A Scalable Approach
 
 1, The exported jar is available for testing and can be also exported by the source codes.
 
-2, The 1.sh script can be used for batching tests after changing the systems configurations.
+2, The 1.sh script can be used for batch tests after changing the systems configurations.
 
 3, A sample of the job submission commands as described in 1.sh is shown as below. Namely, besides the first four system parameters, there are 3 other parameters in our codes. There, "spark://n53:7077" is the sparkcontext, "hdfs://n53:9000/" is the file input path over HDFS, and "$i" is the number of executor cores.
 
