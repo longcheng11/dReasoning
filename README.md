@@ -18,6 +18,6 @@ The test code used in Rethinking Defeasible Reasoning: A Scalable Approach
   hdfs://n53:9000/ \ <br/>
   $i  <br/>
   
-3, How to set Spark, please refer to http://spark.apache.org/.
+4, How to set Spark, please refer to http://spark.apache.org/.
 
-4, If any questions, please email to long.cheng(AT)ucd.ie
+5, If any questions, please email to long.cheng(AT)ucd.ie
