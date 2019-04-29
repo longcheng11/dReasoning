@@ -16,7 +16,7 @@ The test code used in Rethinking Defeasible Reasoning: A Scalable Approach
   DefLogic.jar  \ <br/>
   spark://n53:7077 \ <br/>
   hdfs://n53:9000/ \ <br/>
-  $i \ <br/>
+  $i  <br/>
   
 3, How to set Spark, please refer to http://spark.apache.org/.
 
